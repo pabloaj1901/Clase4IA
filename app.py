@@ -1,8 +1,3 @@
-"""
-Taller NLP & LLMs - EAFIT 2026-1
-Maestría en Ciencia de Datos
-Docente: Jorge Iván Padilla-Buriticá
-"""
 
 import streamlit as st
 import pandas as pd
